@@ -27,4 +27,7 @@ public class Main {
         //Close the database when you are done
         db.close();
     }
+    public static Document CreateAndInsertDoc(){
+        return null;
+    }
 }
